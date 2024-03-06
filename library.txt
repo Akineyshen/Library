@@ -1,0 +1,10 @@
+0,Adam Miscavige,Dzyady,poem,1823,academies,0 
+1,Alexander Griboyedov,Woe from Wit,comedy,1831,Copyright,1 
+2,J K Rowling,Harry Potter,fantasy,1997,Allsobrook,1 
+3,John R. R. Tolkien,Lord of the Rings,Fantasy,1954,George Allen Unwin,1 
+4,Jonathan Swift,Gulliver's Travels,Satire,1726,Swift,0 
+5,Lev Tolstoy,War and Peace,Novel,1867,alphabet,1 
+6,NO SY,NO SY,motivational,2010,Bombora,0 
+7,Nikolay Gogol,Auditor,Comedy,1836,Speech,0 
+8,William Shakespeare,Romeo and Juliet,Play,1595,AST,1 
+9,Yakub Kolas,new land,paema,1911,afort,1 
